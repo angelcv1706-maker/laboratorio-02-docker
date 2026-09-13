@@ -45,4 +45,16 @@ MESSAGE=<Colocar nombre>
 - docker compose logs -f
 - docker compose down
 
-# evidencias
+# Evidencias
+
+### 1. Despliegue de la API en el navegador
+![API en localhost](evidencia1.png)
+
+### 2. Contenedores activos en Docker Compose
+![API en localhost](evidencia2.png)
+
+### 3. Despliegue de la API en el navegador
+![API en localhost](evidencia3.png)
+
+### 4. Contenedores activos en Docker Compose
+![Estado de los contenedores](evidencia4.png)
