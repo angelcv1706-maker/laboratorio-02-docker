@@ -48,7 +48,7 @@ MESSAGE=<Colocar nombre>
 # Evidencias
 
 ### 1. Despliegue de la API en el navegador
-![API en localhost](evidencia 1.png)
+![API en localhost](evidencia1.png)
 
 ### 2. Contenedores activos en Docker Compose
 ![API en localhost](evidencia2.png)
