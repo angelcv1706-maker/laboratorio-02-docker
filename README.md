@@ -6,9 +6,7 @@ API
 - Minimal API
 - Debe retornar un mensaje incluyendo mi nombre
 - Docker
-- docker run -d --rm -p 3000:3000 nmatsui/hello-world-api. 8c446d43dfc9
-focused_wilson
-docker run -d --rm -p 3001:3000 nmatsui/hello-world-api sweet_sammet
+- docker run -d --rm -p 3000:3000 nmatsui/hello-world-api
 BD
 - PostgreSQL
 - $ docker run --name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -d
@@ -24,4 +22,4 @@ MESSAGE=<Colocar nombre>
 ```
 # Creditos
 - Angel Gabriel Culquichicon Vasquez
-# etc
+# evidencias
